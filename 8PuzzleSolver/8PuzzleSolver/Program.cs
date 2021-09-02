@@ -149,6 +149,8 @@ namespace _8PuzzleSolver
                 count++;
             }
 
+            Console.WriteLine("Press Enter to Exit");
+            Console.ReadLine();
         }
 
         static List<string> FindSolutionDijkstra(string start, string end, int PuzzleSize)
