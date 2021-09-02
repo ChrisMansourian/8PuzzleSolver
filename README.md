@@ -14,3 +14,6 @@ E.g. 1 2 3 4 5 6 7 8 e
 <br/>
 ## Solutions
 Once the user enters the desired target configuration, the puzzle will be solved using various algorithms (i.e. Dijkstra's, A*, IDA*) and will not only display the steps to the solution, but also the time taken to solve the puzzle and the number of moves checked.
+
+## How To Run
+Either Clone the repository and run the code, [download](https://github.com/ChrisMansourian/8PuzzleSolver/blob/main/8PuzzleSolver.exe) the exe file in the repo.
