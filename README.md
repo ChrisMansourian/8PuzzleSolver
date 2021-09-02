@@ -1,7 +1,7 @@
 # 8PuzzleSolver
 C# Project capable of solving 8-15 puzzles
 
-## How to Use:
+## How To Use:
 
 When run, the program asks the user to enter a puzzle size.  To simulate the 8 puzzle, the user must enter 9 for the size.<br/>
 The program then prompts the user to enter the puzzle in the starting / incorrect position with an e in the empty spot.  <br/>
